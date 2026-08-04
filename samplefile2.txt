@@ -1,0 +1,2 @@
+this is samplefile2 
+This is comparison lecture, change in file 2
