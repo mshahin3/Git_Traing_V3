@@ -1,2 +1,11 @@
+
 This is for sample file
 This is for sample file 1
+
+This is sample1 file text
+
+
+Adding new line of the file
+This is comparison lecture
+This is comparison lecture, change in file 1
+n
