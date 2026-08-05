@@ -5,3 +5,4 @@ this is samplefile2
 This is comparison lecture, change in file 2
 This is comparison lecture, change in file 2
 >>>>>>> main
+This is Stash lecture , change in File 2

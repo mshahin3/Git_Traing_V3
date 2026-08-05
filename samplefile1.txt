@@ -9,3 +9,4 @@ Adding new line of the file
 This is comparison lecture
 This is comparison lecture, change in file 1
 n
+This is Stash lecture , change in File 1
